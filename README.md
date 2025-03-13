@@ -1,3 +1,3 @@
 # 01github
 this is my first repo.
-writter:"sumit
+writter:"sumit sarkar"
